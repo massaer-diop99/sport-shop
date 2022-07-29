@@ -1,0 +1,201 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+ul li {
+    padding: 7px;
+   margin-left: 30px;
+   list-style-type: none;
+   font-size: 20px;
+   font-family: 25px;
+   margin-top: 5px;
+}
+
+/* welcom*/
+.wel{
+    border-radius: 10px;
+}
+
+.para{
+    font-size: 25px;
+    
+}
+.start{
+    background: #009688 ;
+}
+
+/* welcom */ 
+
+/* domaine */ 
+
+.domaine{
+    background: linear-gradient(to right, #719786 , #52c28e , #8fe6bd);
+    margin-top: 15px;
+    border-radius: 15px;
+
+}
+
+.voir{
+    margin-left: 40%;
+    margin-bottom: 37px;
+  background-color: #d8291d;
+}
+
+/* domaine */ 
+
+
+
+
+/* cours */ 
+
+.pro2{
+    border: 1px solid #d8291d;
+    border-radius: 15px;
+    margin-left: 15px;
+    width: 300px;
+}
+
+
+
+.graph2{
+    border: 1px solid #1dd85b;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 5%; 
+}
+
+.Market2{
+    border: 1px solid  #F5B21A;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 6%;
+}
+
+.gestion2{
+    border: 1px solid #1dd85b;
+    border-radius: 15px;
+    width: 300px; 
+    margin-left: 6%;
+   
+}
+
+.im1{
+    padding-left:29%;
+    padding-top: 30px;
+}
+
+
+/* cours */ 
+
+/* diplome */ 
+
+.diplome{
+    background-color: #d8291d;
+    margin-top: 100px;
+    padding-left: 5px;
+    padding-top: 5%;
+}
+
+.sp1{
+    font-size: 12px;
+    
+}
+
+.imag{
+    background-color: #d8291d;
+   
+}
+/* diplome */ 
+
+/* coach*/
+.voire{
+    margin-left: 45%;
+}
+
+.jane{
+    margin-left: 9%;
+    margin-top: 90px;
+    
+}
+
+.jane1{
+    border: 1px solid #1dd85b;
+    
+    width: 200px;
+    margin-left: 5%;
+}
+
+.jane2{
+    border: 1px solid #1dd85b;
+    width: 200px;
+    margin-left: 5%;
+}
+
+.jane3{
+    border: 1px solid #1dd85b;
+    width: 200px;
+    margin-left: 5%;
+}
+
+
+.jane4{
+    border: 1px solid #1dd85b;
+    width: 200px;
+    margin-left: 5%;
+}
+
+.cliche{
+    margin: 15px;
+    padding-top: 15px;
+}
+
+
+/* coach */
+
+/* activity */
+.imag2{
+    margin-top: 90px;
+    background-color: #d8291d;
+}
+
+.tof{
+  margin-left: 4rem;
+}
+
+.tof2{
+    margin-top: 36px;
+    margin-left: 4rem;
+}
+/* activity */
+
+
+/*partenair */
+.partenair{
+    background-color: #f0f9f8;
+    
+}
+
+.part{
+    margin-left: 45px;
+}
+
+/*partenair */
+
+/*contact */
+.footer{
+    background-color: #009688;
+    margin-top: 5%;
+    
+}
+
+.rowa{
+    margin-left: 10%;
+}
+
+.copy{
+    padding-left: 65%;
+    padding-top: 50%;
+}
+/*contact */
